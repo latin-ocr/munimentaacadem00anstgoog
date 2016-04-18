@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./munimentaacadem00anstgoog_0148.png"; bbox 0 0 3466 5635; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 796 2855 2577 2953">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 796 2855 2577 2953">
+     <span class='ocr_line' id='line_1_1' title="bbox 796 2855 2577 2953; baseline -0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 796 2857 1133 2953; x_wconf 87' lang='lat' dir='ltr'><strong>ACTA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1193 2856 1609 2951; x_wconf 88' lang='lat' dir='ltr'><strong>CURIAE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1671 2855 2577 2951; x_wconf 87' lang='lat' dir='ltr'><strong>CANCELLARII.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1191 3081 1355 3089">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1191 3081 1355 3089">
+     <span class='ocr_line' id='line_1_2' title="bbox 1191 3081 1355 3089; baseline -0.012 0"><span class='ocrx_word' id='word_1_4' title='bbox 1191 3081 1355 3089; x_wconf 80' lang='lat'>——-—</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1366 3077 2185 3087">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1366 3077 2185 3087">
+     <span class='ocr_line' id='line_1_3' title="bbox 1366 3077 2185 3087; baseline 0 2548"><span class='ocrx_word' id='word_1_5' title='bbox 1366 3077 2185 3087; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

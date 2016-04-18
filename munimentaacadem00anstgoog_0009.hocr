@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./munimentaacadem00anstgoog_0009.png"; bbox 0 0 3466 5635; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1260 5023 2547 5209">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1260 5023 2547 5209">
+     <span class='ocr_line' id='line_1_1' title="bbox 1260 5023 2547 5142; baseline -0.013 0"><span class='ocrx_word' id='word_1_1' title='bbox 1260 5099 1406 5142; x_wconf 68' lang='lat' dir='ltr'><strong>En!</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1426 5093 1521 5139; x_wconf 75' lang='lat' dir='ltr'><strong>and</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1534 5023 2056 5142; x_wconf 48' lang='grc' dir='ltr'><strong>θεοπῐεπξῐέἓξάἔέι·</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2071 5085 2306 5140; x_wconf 61' lang='lat' dir='ltr'><strong>Mnfiuty&#39;s</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2321 5083 2547 5129; x_wconf 68' lang='lat' dir='ltr'>matera.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1460 5147 2368 5209; baseline -0.01 -8"><span class='ocrx_word' id='word_1_6' title='bbox 1460 5157 1551 5202; x_wconf 77' lang='lat' dir='ltr'><strong>For</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1566 5153 1667 5198; x_wconf 75' lang='lat' dir='ltr'><strong>Her</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1684 5151 1917 5209; x_wconf 60' lang='lat' dir='ltr'><strong>»matrs</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1935 5150 2198 5198; x_wconf 65' lang='lat' dir='ltr'><strong>Stationem</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2215 5147 2368 5194; x_wconf 73' lang='lat' dir='ltr'>office.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3457 582 3459 2958">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3457 582 3459 2958">
+     <span class='ocr_line' id='line_1_3' title="bbox 3457 582 3459 2958; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 3457 582 3459 2958; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3457 4709 3459 5591">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3457 4709 3459 5591">
+     <span class='ocr_line' id='line_1_4' title="bbox 3457 4709 3459 5591; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 3457 4709 3459 5591; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
